@@ -48,7 +48,7 @@ These names can be adjusted, but would also need their respective command names 
 
 Create a config.cfg file in the same directory as your script:
 
-
+```
 [DEFAULT]
 SLACK_BOT_TOKEN = [Attached in Step 1]
 
@@ -63,7 +63,7 @@ AIHUB_IB_CONTEXT = [Include your AIHub context here]
 AIHUB_CHAT_ID_PLATFORM = [Include the chat ID for the query being made here. This value contains the chat ID for the Instabase Platform chatbot]
 
 AIHUB_CHAT_ID_AIHUB = [Include the chat ID for the query being made here. This value contains the chat ID for the AIHub chatbot]
-
+```
 
 
 Replace each placeholder with your actual token, keys, and API details.
