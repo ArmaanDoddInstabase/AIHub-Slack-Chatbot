@@ -51,17 +51,11 @@ Create a config.cfg file in the same directory as your script:
 ```
 [DEFAULT]
 SLACK_BOT_TOKEN = [Attached in Step 1]
-
 SLACK_APP_TOKEN = [Attached in Step 2]
-
 AIHUB_API_KEY = [Include the AIHub API Key for the user querying the AIHub chatbot]
-
 AIHUB_API_ROOT = [Include the URL of the AIHub instance you are reaching]
-
 AIHUB_IB_CONTEXT = [Include your AIHub context here]
-
 AIHUB_CHAT_ID_PLATFORM = [Include the chat ID for the query being made here. This value contains the chat ID for the Instabase Platform chatbot]
-
 AIHUB_CHAT_ID_AIHUB = [Include the chat ID for the query being made here. This value contains the chat ID for the AIHub chatbot]
 ```
 
